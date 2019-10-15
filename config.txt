@@ -1,0 +1,6 @@
+owner=532638784672497665
+prefix=!
+game=Lonset Music !play
+stayinchannel=true
+songinstatus=false
+token=NjMzNjc4MjgxMTQwNDY5ODEx.XaXdWA.4Ez_6nKD8nrgeVEg_reTBqVS8Mw
